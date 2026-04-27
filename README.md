@@ -43,15 +43,13 @@ I'm a Computer Science student at **Institut Teknologi Bandung (STEI-K ITB)**, I
 
 ### 📊 GitHub Stats
 <div align="center">
-  <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StackSaint&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&custom_title=Overall+Stats" alt="StackSaint's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StackSaint&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="StackSaint's GitHub Stats" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StackSaint&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="StackSaint's Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StackSaint&layout=compact&theme=transparent&hide_border=true" alt="StackSaint's Top Languages" />
 
   <br/>
 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=StackSaint&theme=transparent&hide_border=true" alt="StackSaint's Streak" />
-</div>
 </div>
 
 ---
