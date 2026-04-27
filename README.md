@@ -66,9 +66,3 @@ I'm a Computer Science student at **Institut Teknologi Bandung (STEI-K ITB)**, I
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?user=StackSaint&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
